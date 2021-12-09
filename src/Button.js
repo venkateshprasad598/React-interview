@@ -8,5 +8,4 @@ const Button = ({ color, border, type }) => {
     </div>
   );
 };
-
 export default Button;
